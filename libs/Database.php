@@ -7,7 +7,7 @@ class Database {
     function __construct() {
 
         $host = "127.0.0.1";   //ose thjesht: localhost
-        $user = 'user";
+        $user = 'user';
         $password = "";
         $db_name = "mesophp_db";
 
